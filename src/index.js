@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 /* eslint-disable react/prefer-stateless-function */
-import React, { Component, ReactElement, useEffect } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 

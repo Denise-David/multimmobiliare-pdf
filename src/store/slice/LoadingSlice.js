@@ -2,9 +2,6 @@
 /* eslint-disable prefer-destructuring */
 import { createSlice } from '@reduxjs/toolkit';
 
-/**
- * Gestione etichetta autoanamnesi con etichetta
- */
 const LoadingSlice = createSlice({
   name: 'Loading',
   initialState:
